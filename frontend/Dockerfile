@@ -15,8 +15,8 @@ RUN npm install
 # Copy the rest of the application code to the working directory
 COPY . .
 
-# Expose port 3000 to the outside world
-EXPOSE 3000
+# Expose port 5173 to the outside world
+EXPOSE 5173
 
 # Start the app
 CMD ["npm", "run", "dev"]
