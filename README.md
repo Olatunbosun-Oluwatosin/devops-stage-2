@@ -18,3 +18,6 @@ To get started with this template, please follow the instructions in the respect
 - [Frontend README](./frontend/README.md)
 - [Backend README](./backend/README.md)
 
+All the dependencies from both the Frontend and Backend README were implemented before venturing into the project task in details.
+
+Changes were made to the environment variables on both frontend and backend as well as dockerfile creation for same. The Docker-compose file was built as well to further run each of the containers;

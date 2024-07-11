@@ -54,6 +54,7 @@ services:
       - backend
       - frontend
       - adminer
+      
 
 volumes:
   postgres_data:
